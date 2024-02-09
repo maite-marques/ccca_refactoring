@@ -1,0 +1,50 @@
+1. Nome estranho / ruim
+  - calc.ts     // calculateRide.ts
+  - dist        // distance
+  - ds          // date
+  - mov         // segment
+  - movArray    // segments
+  - result      // fare
+Renomear variável, método, função, classe, arquivo
+
+2. Linhas em branco
+- Medida vertical que o código ocupa na tela. 
+- A medida ideal é que o código caiba na tela do monitor.
+- Apagar linha em branco
+- Extrair Método
+
+3. Comentários
+  - Se o comentário é necessário o código não está claro
+  vc pode extrair para uma variável auto explicativa.
+  ou Extrair para uma função que possa ser testada.
+introduzir variável explicativa
+Extrair Método
+Apagar comentário
+
+4. Código morto
+Apagar código Morto
+
+5. Condições confusas e aninhadas
+- Inverter as condiçães para introduzir cláusulas quarda
+- consolidar condições
+- Introduzir ternários
+
+6. Magic number
+extrair constantes explicativas
+
+7. Tratamento inadequado de exceptions
+- introduzir tratamento de exceptions
+
+===> codigo -> design (arte)
+
+
+8. excesso de parâmetros
+- quanto menos melhor
+- introduza instâncias
+
+9. métodos grandes
+- extrair método
+
+10. classes grandes
+- extrair classes
+
